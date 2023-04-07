@@ -1,1 +1,3 @@
 # Human-Locomotion-Recognition-using-Multi-Layer-Perceptron
+Human locomotion recognition using smartphone sensors has significant importance in various domains such as health and fitness, fall detection and prevention, biometric authentication, sports performance analysis, healthcare and rehabilitation, urban planning and transportation, and human-computer interaction. It has the potential to improve the quality of life, enhance safety and security, optimize performance, and enable new applications and experiences.   
+In this reseaerch project we used advanced machine learning techniques to recognize human locomtion activities. We processed inertial sensors and GPS sensor data separately. We developed parallelery two system for physical and locomtion Activity.
